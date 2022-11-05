@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 import React, { useCallback, useState } from 'react';
 import P from 'prop-types';
